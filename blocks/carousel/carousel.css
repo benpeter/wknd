@@ -27,7 +27,7 @@ main .carousel img {
   height: 100%;
   object-position: 90%;
 }
-  
+
 main .carousel > div {
   width: 100%;
   flex-shrink: 0;
@@ -41,7 +41,7 @@ main .carousel > div {
 main .carousel div.carousel-text {
   max-width: 1200px;
   margin: 0 auto;
-  background-color: white;
+  background-color: greenyellow;
   min-height: 188px;
   padding: 0 28px;
 }
@@ -53,13 +53,13 @@ main .carousel div.carousel-text p {
 
 main .carousel div.carousel-text h2 {
   margin: 0;
-  margin-top: 16px; 
+  margin-top: 16px;
 }
 
 main .carousel div.carousel-text .button {
   margin: 0;
 }
-  
+
 
 main .carousel::-webkit-scrollbar {
     display: none;
